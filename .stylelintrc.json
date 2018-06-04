@@ -1,6 +1,6 @@
 {
   "plugins": ["stylelint-scss", "stylelint-suitcss", "stylelint-order"],
-  "ignoreFiles": ["dist/**", "src/assets/fonts/**/*"],
+  "ignoreFiles": ["dist/**", "README.md"],
   "extends": [
     "stylelint-config-standard",
     "stylelint-config-prettier",
