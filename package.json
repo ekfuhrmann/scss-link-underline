@@ -1,6 +1,6 @@
 {
   "name": "scss-link-underline",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Improved link underline for SCSS",
   "main": "index.js",
   "scripts": {
@@ -11,12 +11,8 @@
     "url": "git+https://github.com/ekfuhrmann/scss-link-underline.git"
   },
   "keywords": [
-    "npm",
-    "sass",
     "scss",
-    "link",
-    "links",
-    "underline"
+    "links"
   ],
   "author": "Eric Fuhrmann",
   "license": "MIT",
