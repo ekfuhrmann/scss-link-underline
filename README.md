@@ -4,13 +4,9 @@
 
 [![NPM](https://nodei.co/npm/scss-link-underline.png)](https://nodei.co/npm/scss-link-underline/)
 
----
-
 ## What?
 
 **scss-link-underline** is a Sass library for creating beautiful and consistent link underlines across systems.
-
----
 
 ## Why?
 
@@ -18,15 +14,11 @@ As browsers continue to change, update, and improve over time, inconsistencies b
 
 This library ensures consistency across all browser, but best of all it guarantees that all of your links will look great and are easy to read.
 
----
-
 ## How to install
 
 - With yarn: yarn add --dev scss-link-underline
 - With npm: npm install --dev scss-link-underline
 - Manually: download [this file](https://raw.githubusercontent.com/ekfuhrmann/scss-link-underline/master/dist/_link-underline.scss)
-
----
 
 ## Usage
 
@@ -63,8 +55,6 @@ a {
   @include link-underline(#fff, #000, #b4d5fe, 'bold');
 }
 ```
-
----
 
 ## Limitations
 
