@@ -1,0 +1,42 @@
+{
+  "name": "scss-link-underline",
+  "version": "1.0.1",
+  "description": "Improved link underline for SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekfuhrmann/scss-link-underline.git"
+  },
+  "keywords": [
+    "npm",
+    "sass",
+    "scss",
+    "link",
+    "links",
+    "underline"
+  ],
+  "author": "Eric Fuhrmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekfuhrmann/scss-link-underline/issues"
+  },
+  "homepage": "https://github.com/ekfuhrmann/scss-link-underline#readme",
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.1",
+    "stylelint": "^9.2.1",
+    "stylelint-config-prettier": "^3.2.0",
+    "stylelint-config-rational-order": "^0.0.2",
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-order": "^0.8.1",
+    "stylelint-scss": "^3.1.0",
+    "stylelint-suitcss": "^3.0.0"
+  }
+}
