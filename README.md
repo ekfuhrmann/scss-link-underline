@@ -10,7 +10,7 @@
 
 ## Why?
 
-As browsers continue to change, update, and improve over time, inconsistencies between them increase. For example, _Google Chrome_ by default now displays "pretty" link underlines, but _Mozilla Firefox_ still displays the classic underline of yesteryear.
+As browsers continue to change, update, and improve over time, inconsistencies between them increase. For example, _Google Chrome_ by default now displays "smarter" link underlines, but _Mozilla Firefox_ still displays the classic underline of yesteryear.
 
 This library ensures consistency across all browser, but best of all it guarantees that all of your links will look great and are easy to read.
 
