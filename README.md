@@ -16,8 +16,8 @@ This library ensures consistency across all browser, but best of all it guarante
 
 ## How to install
 
-- With yarn: yarn add --dev scss-link-underline
-- With npm: npm install --dev scss-link-underline
+- With yarn: `yarn add --dev scss-link-underline`
+- With npm: `npm install --dev scss-link-underline`
 - Manually: download [this file](https://raw.githubusercontent.com/ekfuhrmann/scss-link-underline/master/dist/_link-underline.scss)
 
 ## Usage
