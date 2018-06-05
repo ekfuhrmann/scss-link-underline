@@ -42,19 +42,32 @@ a {
 
 ##### Normal Underline:
 
+###### Input:
+
 ```scss
 a {
   @include link-underline(#fff, #000, #b4d5fe);
 }
 ```
 
+###### Output:
+
+![image](https://user-images.githubusercontent.com/8878152/41007971-6671a520-68f6-11e8-80d7-5b415c6d2784.png)
+
+
 ##### Bold Underline:
+
+###### Input:
 
 ```scss
 a {
   @include link-underline(#fff, #000, #b4d5fe, 'bold');
 }
 ```
+
+###### Output:
+
+![image](https://user-images.githubusercontent.com/8878152/41008008-95a9d8d0-68f6-11e8-9175-ee4d80e837ad.png)
 
 ## Limitations
 
