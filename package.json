@@ -1,6 +1,6 @@
 {
   "name": "scss-link-underline",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Improved link underline for SCSS",
   "main": "index.js",
   "scripts": {
